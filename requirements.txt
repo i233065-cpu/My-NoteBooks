@@ -1,0 +1,13 @@
+# PACMAN MAP GENERATOR - Dependencies
+# ===================================
+# This project uses only Python standard library
+# No external packages required!
+
+# Python version requirement
+python>=3.8
+
+# Optional: For advanced visualization (not required for core functionality)
+# matplotlib>=3.4.0
+
+# Optional: For performance testing
+# pytest>=6.0.0
